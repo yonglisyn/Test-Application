@@ -1,0 +1,9 @@
+D:\BlackJack\BlackJackTest\bin\Debug\BlackJackTest.dll
+D:\BlackJack\BlackJackTest\bin\Debug\BlackJackTest.pdb
+D:\BlackJack\BlackJackTest\bin\Debug\nunit.framework.dll
+D:\BlackJack\BlackJackTest\bin\Debug\nunit.framework.xml
+D:\BlackJack\BlackJackTest\obj\Debug\BlackJackTest.csprojResolveAssemblyReference.cache
+D:\BlackJack\BlackJackTest\obj\Debug\BlackJackTest.dll
+D:\BlackJack\BlackJackTest\obj\Debug\BlackJackTest.pdb
+D:\BlackJack\BlackJackTest\bin\Debug\BlackJack.exe
+D:\BlackJack\BlackJackTest\bin\Debug\BlackJack.pdb
